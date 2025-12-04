@@ -1,0 +1,10 @@
+Django==4.0.1
+face_recognition
+opencv-python
+numpy
+scikit-learn
+scipy
+dlib
+gunicorn
+zipfile36
+whitenoise

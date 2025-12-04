@@ -1,0 +1,97 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+# Common names used for venvs in this repo
+.env/
+venv/
+ENV/
+env/
+
+# Django stuff
+# Local SQLite DB
+db.sqlite3
+# Logs
+*.log
+# Media/uploads
+media/
+# Collected static files
+staticfiles/
+
+# Environment files (keep secrets out of git)
+.env
+.env.*
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Editor temp files
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Thumbs.db:encryptable
+
+# OneDrive/temp
+~$*
+
+# Python egg
+*.egg-info/
+
+# macOS
+.Spotlight-V100
+.Trashes
+
+# Windows image file caches
+ehthumbs.db
+Desktop.ini
+
+# Ignore uploaded images and generated thumbnails (optional)
+# Remove these lines if you want to track images in git
+static/images/
+
+# Ignore migrations bytecode (keep migration source files)
+*/migrations/__pycache__/
+
+# Ignore environment-specific local settings
+local_settings.py
+
+# Logs and runtime files
+*.pid
+*.sqlite3-journal
+
+# Ignore pyenv local files
+.python-version
+
+# Docker (if used)
+docker-compose.override.yml
+
+# End of file
