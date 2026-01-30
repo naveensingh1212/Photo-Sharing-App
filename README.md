@@ -13,7 +13,7 @@ ImageGenie is an AI-powered photo clustering and sharing app built with Django. 
 - Automatic face detection & clustering (DBSCAN on face embeddings)
 - Search for images in a cluster using a reference photo (selfie)
 - Download cluster/album as a ZIP file
-- Room-based / user-based organization (random 8-character room IDs in the app)
+
 
 ## Tech Stack
 - Backend: Django (Python) — project located in `backend/`
